@@ -9,11 +9,11 @@ Desarrollador de software apasionado por crear aplicaciones multiplataforma y so
 ## 🚀 Proyectos Destacados
 
 ## 🚀 Repositorios Destacados
-DESARROLLO DE INTERFACES : https://github.com/alexbike2001/Desarrollo-de-Interfaces
-ACCESO A DATOS : 
-PROGRAMACION MULTIMEDIA Y DISPOSITIVOS MOVILES :
-PROGRAMACION DE SERVICIOS Y PROCESOS : 
-SISTEMA DE GESTIÓN EMPRESARIAL :
+- DESARROLLO DE INTERFACES : https://github.com/alexbike2001/Desarrollo-de-Interfaces
+- ACCESO A DATOS : 
+- PROGRAMACION MULTIMEDIA Y DISPOSITIVOS MOVILES :
+- PROGRAMACION DE SERVICIOS Y PROCESOS : 
+- SISTEMA DE GESTIÓN EMPRESARIAL :
 
 ## 📫 Contáctame
 - Email: alejandrorobertochiralt@gmail.com
