@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Alejandro  
-Desarrollador de software apasionado por crear aplicaciones multiplataforma y soluciones innovadoras.
+Estudiante de Desarrollo de Aplicaciones Multiplataforma y apasionado por crear aplicaciones multiplataforma y soluciones innovadoras.
 
 ## 💻 Tecnologías
 - Lenguajes: Java, C#, Kotlin, Python, JavaScript.
