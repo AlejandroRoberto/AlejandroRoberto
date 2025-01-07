@@ -19,9 +19,8 @@
 ## 📊 Estadísticas de GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexbike2001&show_icons=true&theme=radical)
 
+## 📚 Lenguajes  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&layout=compact&theme=radical)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=alexbike2001&theme=radical)
 
 ## 🏆 Trofeos de GitHub  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=alexbike2001&theme=radical&no-frame=true&column=7)
