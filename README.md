@@ -17,9 +17,9 @@
 - 🎓 SISTEMA DE GESTIÓN EMPRESARIAL : https://github.com/alexbike2001/Sistema-de-Gestion-Empresarial
 
 ## 📊 Estadísticas de GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexbike2001&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&layout=compact&theme=radical)
 
 ## 📫 Contáctame
 - Email: alejandrorobertochiralt@gmail.com
