@@ -23,7 +23,7 @@
 
 ## 📚 Lenguajes  
 ![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&layout=compact&theme=radical)
+
 
 ## 📫 Contáctame
 - Email: alejandrorobertochiralt@gmail.com
