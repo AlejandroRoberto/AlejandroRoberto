@@ -27,9 +27,7 @@
 
 ![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
 
-## 🎧 Escuchando ahora  
-[![Spotify](https://open.spotify.com/user/alexbike2001?si=a403d7306a1d427c)]
-
+![Visitas al perfil](https://komarev.com/ghpvc/?username=alexbike2001&label=Visitas&color=blue)
 
 
 ## 📫 Contáctame
