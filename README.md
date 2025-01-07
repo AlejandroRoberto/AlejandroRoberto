@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&lines=Hola%2C+soy+Alejandro!;Bienvenidos+a+mi+perfil)
+##![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&lines=Hola%2C+soy+Alejandro!;Bienvenidos+a+mi+perfil)
 
 ##🌟 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** explorando el mundo de las apps multiplataforma y la tecnología.
 
@@ -28,9 +28,9 @@
 
 ![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=alexbike2001&label=Visitas&color=blue)
-
 ![GIF Programador](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## 📫 Contáctame
 - Email: alejandrorobertochiralt@gmail.com
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=alexbike2001&label=Visitas&color=blue)
