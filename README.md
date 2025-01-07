@@ -1,7 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=4A90E2&lines=Hola%2C+soy+Alejandro!+Bienvenidos+a+mi+perfil.+Estoy+emprendiendo+en+el+mundo+de+la+programaci%C3%B3n.+Desarrollando+aplicaciones+en+diversas+plataformas.)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&pause=1000&color=6AF734&width=435&lines=Hola%2C+soy+Alejandro!;Bienvenidos+a+mi+perfil+de+GitHub.)](https://git.io/typing-svg)
 
 🌟 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** explorando el mundo de las apps multiplataforma y la tecnología.
 
