@@ -19,18 +19,18 @@
 
 ## 📊 Estadísticas de GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexbike2001&show_icons=true&theme=radical)
+![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
 
 ## 📚 Lenguajes  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&layout=compact&theme=radical)
 
+## 📫 Contáctame
+- Email: alejandrorobertochiralt@gmail.com
+
 ## 🏆 Trofeos de GitHub  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=alexbike2001&theme=radical&no-frame=true&column=7)
 
-![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
-
 ![GIF Programador](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-## 📫 Contáctame
-- Email: alejandrorobertochiralt@gmail.com
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=alexbike2001&label=Visitas&color=blue)
