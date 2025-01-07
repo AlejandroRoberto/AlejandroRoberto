@@ -6,8 +6,6 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma y apasionado por crear 
 - Frameworks: .NET MAUI, Android Studio.
 - Bases de datos: Firebase, SQLite, MySQL Workbench.
 
-## 🚀 Proyectos Destacados
-
 ## 🚀 Repositorios Destacados
 - DESARROLLO DE INTERFACES : https://github.com/alexbike2001/Desarrollo-de-Interfaces
 - ACCESO A DATOS : https://github.com/alexbike2001/Acceso-a-Datos
