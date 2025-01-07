@@ -28,7 +28,7 @@
 ![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
 
 ## 🎧 Escuchando ahora  
-[![Spotify](https://novatorem.vercel.app/api/spotify)][(https://open.spotify.com/user/alexbike2001?si=a403d7306a1d427c)]
+[![Spotify](https://novatorem.vercel.app/api/spotify)(https://open.spotify.com/user/alexbike2001?si=a403d7306a1d427c)]
 
 
 
