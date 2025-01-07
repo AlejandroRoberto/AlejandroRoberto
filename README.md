@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&lines=Hola%2C+soy+Alejandro!;Bienvenidos+a+mi+perfil+de+GitHub)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&lines=Hola%2C+soy+Alejandro!;Bienvenidos+a+mi+perfil)
 
 ##🌟 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** explorando el mundo de las apps multiplataforma y la tecnología.
 
