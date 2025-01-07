@@ -17,9 +17,6 @@
 - 🎓 PROGRAMACION DE SERVICIOS Y PROCESOS : https://github.com/alexbike2001/Programacion-de-Servicios-y-Procesos
 - 🎓 SISTEMA DE GESTIÓN EMPRESARIAL : https://github.com/alexbike2001/Sistema-de-Gestion-Empresarial
 
-## 📊 Estadísticas de GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexbike2001&show_icons=true&theme=radical)
-
 
 ## 📚 Lenguajes  
 ![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
@@ -27,6 +24,9 @@
 
 ## 📫 Contáctame
 - Email: alejandrorobertochiralt@gmail.com
+
+## 📊 Estadísticas de GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexbike2001&show_icons=true&theme=radical)
 
 ## 🏆 Trofeos de GitHub  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=alexbike2001&theme=radical&no-frame=true&column=7)
