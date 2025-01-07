@@ -25,9 +25,7 @@
 ## 🏆 Trofeos de GitHub  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=alexbike2001&theme=radical&no-frame=true&column=7)
 
-![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&theme=radical&layout=pie)
-
-
+![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbike2001&theme=radical&layout=pie)
 
 
 ## 📫 Contáctame
