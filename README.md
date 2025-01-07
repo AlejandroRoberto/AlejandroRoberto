@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=4A90E2&lines=Hola%2C+soy+Alejandro!%0ABienvenidos+a+mi+perfil%0AEstoy+emprendiendo+en+el+mundo+de+la+programaci%C3%B3n%0AY+desarrollando+aplicaciones+en+diversas+plataformas.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=4A90E2&lines=Hola%2C+soy+Alejandro!%0ABienvenidos+a+mi+perfil%0AEstoy+emprendiendo+en+el+mundo+de+la+programaci%C3%B3n%0AY+desarrollando+aplicaciones.)
+
 
 
 
