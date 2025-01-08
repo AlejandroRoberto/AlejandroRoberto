@@ -11,6 +11,7 @@
 - Bases de datos: Firebase, SQLite, MySQL Workbench.
 
 ## 🚀 Repositorios Destacados
+- 📊 StockTechPage : https://alexbike2001.github.io/StockTechPage/
 - 🎓 DESARROLLO DE INTERFACES : https://github.com/alexbike2001/Desarrollo-de-Interfaces
 - 🎓 ACCESO A DATOS : https://github.com/alexbike2001/Acceso-a-Datos
 - 🎓 PROGRAMACION MULTIMEDIA Y DISPOSITIVOS MOVILES : https://github.com/alexbike2001/Programacion-Multimedia-y-Dispositivos-Moviles
