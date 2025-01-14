@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=35&duration=3500&pause=1000&color=6AF734&width=600&lines=Hola%2C+soy+Alejandro!;Bienvenidos+a+mi+perfil+de+GitHub.)](https://git.io/typing-svg)
 
+## 👨‍💻 Descripción
+
 🌟 **Estudiante de Desarrollo de Aplicaciones Multiplataforma** explorando el mundo de las apps multiplataforma y la tecnología.
 
 🎮 Amante de los videojuegos, 🧩 los retos de programación y ⚙️ las soluciones innovadoras.
