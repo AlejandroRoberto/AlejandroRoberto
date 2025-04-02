@@ -18,7 +18,7 @@
 - 🎓 [ACCESO A DATOS](https://github.com/AlejandroRoberto/Acceso-a-Datos)
 - 🎓 [PROGRAMACION MULTIMEDIA](https://github.com/AlejandroRoberto/Programacion-Multimedia-y-Dispositivos-Moviles)
 - 🎓 [PROGRAMACION DE SERVICIOS Y PROCESOS](https://github.com/AlejandroRoberto/Programacion-de-Servicios-y-Procesos)
-- 🎓 [SISTEMA DE GESTIÓN EMPRESARIAL]() : [https://github.com/AlejandroRoberto/Sistema-de-Gestion-Empresarial](https://github.com/AlejandroRoberto/SGE)
+- 🎓 [SISTEMA DE GESTIÓN EMPRESARIAL](https://github.com/AlejandroRoberto/Sistema-de-Gestion-Empresarial)
 
 
 ## 📚 Lenguajes  
