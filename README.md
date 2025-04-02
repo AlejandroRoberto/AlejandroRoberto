@@ -25,7 +25,7 @@
 ![Lenguajes Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroRoberto&theme=radical&layout=pie)
 
 ## 📚 Experiencia
-- 🎓 Practicas realizadas en ![AHORA](https://www.ahora.es/)
+- 🎓 Practicas realizadas en [AHORA](https://www.ahora.es/)
 
 ## 📫 Contáctame
 - Email: alejandrorobertochiralt@gmail.com
