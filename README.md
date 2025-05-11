@@ -13,7 +13,7 @@
 - Bases de datos: Firebase, SQLite, MySQL Workbench.
 
 ## 🚀 Repositorios Destacados
-- 📊 [StockTechPage](https://AlejandroRoberto.github.io/StockTechPage/) 
+- 📊 [StockTechPage](https://alejandroroberto.github.io/STOCKTECH_PAGE/) 
 - 🎓 [DESARROLLO DE INTERFACES](https://github.com/AlejandroRoberto/Desarrollo-de-Interfaces)
 - 🎓 [ACCESO A DATOS](https://github.com/AlejandroRoberto/Acceso-a-Datos)
 - 🎓 [PROGRAMACION MULTIMEDIA](https://github.com/AlejandroRoberto/Programacion-Multimedia-y-Dispositivos-Moviles)
